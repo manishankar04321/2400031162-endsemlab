@@ -1,8 +1,7 @@
+# Hibernate Booking HQL Project
 
-output:
-
-insert queries...
-select query...
-Booking Records:
-1 mani 2026-05-02 Confirmed
-2 Ravi 2026-05-03 Pending
+This project demonstrates Hibernate ORM with HQL operations.
+It uses a Booking entity with fields like ID, Name, Date, and Status.
+Records are inserted using persistent objects.
+HQL is used to retrieve all records from the database.
+Database used: fsadendexam
